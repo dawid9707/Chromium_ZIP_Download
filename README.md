@@ -50,7 +50,6 @@ The application interface is available in the following languages:
   - **Stable**
   - **Beta**
   - **Dev**
-  - **Canary**
 - ✅ Automatically fetch the latest build number for the selected channel
 - ✅ Ability to manually set a custom build number
 - ✅ Download Chromium as a **ZIP archive**
