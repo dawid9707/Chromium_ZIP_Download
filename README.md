@@ -1,6 +1,8 @@
-# Chromium Build ZIP Downloader
+# Chromium Build ZIP Downloader <img src="https://github.com/dawid9707/Chromium_ZIP_Download/blob/main/screenshots/icon.png?raw=true" width="64" align="absmiddle" />
+
 
 🔽 **A GitHub Pages–hosted web tool for downloading selected Chromium builds in ZIP format**
+
 
 ## 📌 Project Description
 
